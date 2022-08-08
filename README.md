@@ -1,6 +1,8 @@
 ### Hi there 👋
 <figure><embed src="https://wakatime.com/share/@e2cc20d3-8e58-403d-ba7e-93defa89b28b/710903c0-323c-44bc-98ad-79127e1476ce.svg"></embed></figure>
 
+Mainly using gitee. Find me there! <https://gitee.com/dandelight>
+
 <!--
 **Dandelight/dandelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
