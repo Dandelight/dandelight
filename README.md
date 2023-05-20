@@ -2,7 +2,11 @@
 
 <figure><embed src="https://wakatime.com/share/@e2cc20d3-8e58-403d-ba7e-93defa89b28b/710903c0-323c-44bc-98ad-79127e1476ce.svg"></embed></figure>
 
-Mainly working on gitee. Find me there! <https://gitee.com/dandelight>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!--
 **Dandelight/dandelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
