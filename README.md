@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Frontend Engineerer at Chengdu Qingnan Technology Co., Ltd. I use Flutter and TypeScript in my work.
+I'm an engineerer at Chengdu Qingnan Technology Co., Ltd. I use PyTorch, Spring Boot and Flutter in my work.
 
 <figure><embed src="https://wakatime.com/share/@e2cc20d3-8e58-403d-ba7e-93defa89b28b/710903c0-323c-44bc-98ad-79127e1476ce.svg"></embed></figure>
 
