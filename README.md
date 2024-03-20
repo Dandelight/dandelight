@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Raymond 👋
 
-I'm an engineerer at Chengdu Qingnan Technology Co., Ltd. I use PyTorch, Spring Boot and Flutter in my work.
+I'm Raymond Green, an engineerer at Chengdu Qingnan Technology Co., Ltd. I use PyTorch, Spring Boot and Flutter in my work.
 
 <figure><embed src="https://wakatime.com/share/@e2cc20d3-8e58-403d-ba7e-93defa89b28b/710903c0-323c-44bc-98ad-79127e1476ce.svg"></embed></figure>
 
@@ -9,18 +9,3 @@ I'm an engineerer at Chengdu Qingnan Technology Co., Ltd. I use PyTorch, Spring 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dandelight/dandelight/output/github-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dandelight/dandelight/output/github-snake-dark.svg" />
 </picture>
-
-<!--
-**Dandelight/dandelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
