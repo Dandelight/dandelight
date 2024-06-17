@@ -1,6 +1,8 @@
 ### Hi, I'm Raymond 👋
 
-I'm Raymond Green, an engineerer at Chengdu Qingnan Technology Co., Ltd. I use PyTorch, Spring Boot and Flutter in my work.
+* I'm Raymond Green (or Ruiming Guo in Pinyin), a PhD candidate at Sichuan University, China.
+* I'm working on Multi-modal learning.
+* I'm also the co-founder of Chengdu Qingnan Technology Co., Ltd.
 
 <figure><embed src="https://wakatime.com/share/@e2cc20d3-8e58-403d-ba7e-93defa89b28b/710903c0-323c-44bc-98ad-79127e1476ce.svg"></embed></figure>
 
