@@ -1,10 +1,8 @@
 ### Hi, I'm Raymond 👋
 
-* I'm Raymond Green (or Ruiming Guo in Pinyin), a PhD candidate at Sichuan University, China.
-* I'm working on Multi-modal learning.
-* I'm also the co-founder of Chengdu Qingnan Technology Co., Ltd.
-
-<figure><embed src="https://wakatime.com/share/@e2cc20d3-8e58-403d-ba7e-93defa89b28b/710903c0-323c-44bc-98ad-79127e1476ce.svg"></embed></figure>
+* I'm Raymond Guo, a PhD candidate at Sichuan University, Chengdu, China.
+* My research interest involves multi-modal learning and multi-agent systems of large language models.
+* I'm also the co-founder and lead software engineer of Chengdu Qingnan Technology Co., Ltd.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dandelight/dandelight/output/github-snake.svg" />
