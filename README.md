@@ -3,7 +3,6 @@
 - 🎓 I'm Ruiming (Raymond) Guo, a Master's student at Sichuan University in Chengdu, China.
 - 🔬 My research focuses on multi-modal learning and multi-agent systems for large language models.
 - 🌍 My vision is to create a world where everyone is empowered by AI.
-- 🏢 In pursuit of my vision, I co-founded [QuestNova Technology LLC](https://qingnan.tech/) and work as the lead software engineer.
 - 💻 I am proficient in PyTorch and React, with expertise spanning deep learning applications, LLM agent design, and game development.
 
 <picture>
